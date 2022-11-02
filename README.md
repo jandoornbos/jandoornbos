@@ -1,6 +1,6 @@
 ### :wave: Hi there!
 
-I'm a former software developer that is now active as a teacher.
+I'm a former software developer who is now active as a teacher.
 
 ```swift
 let skills: [Skill] = [
